@@ -1,5 +1,7 @@
 # .ENV + OpenWeatherMaps
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/jupiterorbita/weather_api_env/)
+
 ```javascript
 npm install dotenv
 
